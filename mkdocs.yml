@@ -8,9 +8,9 @@ site_author: 'Monthly Roleplay'
 copyright: Copyright &copy; 2019 - 2022 Monthly Roleplay
 
 # Repository
-repo_url: 'https://github.com/Monthly-Roleplay/wet-en-regelgeving'
-repo_name: 'Monthly-Roleplay/wet-en-regelgeving'
-edit_uri: 'edit/pre-release/docs/'
+repo_url: 'https://github.com/Realise-Roleplay/wet-en-regelgeving'
+repo_name: 'Realise-Roleplay/wet-en-regelgeving'
+edit_uri: 'edit/main/docs/'
 
 google_analytics: ['UA-167800475-3', 'wetboek.monthlyrp.nl']
 
